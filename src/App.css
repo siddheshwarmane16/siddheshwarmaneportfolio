@@ -61,9 +61,6 @@
   opacity: 1;
 }
 
-  grid-template-columns: repeat(4, 52px) !important;
-}
-
 /* Smaller tags for Data Science skills so they fit nicely */
 .df-tag {
   font-size: 0.72rem !important;
